@@ -1,3 +1,25 @@
-this is for jenkin
-trying to write a groovy script 
+node{
+   
+}
+  stage('Building')
+  {
+      echo  "building the Program"
+  }
+  stage ('Compiling')
+  {
+      echo "Compiling the Program"
+  }
+  stage('Testing')
+  {
+      echo "Testing the Program"
+  }
+  stage('Monitoring')
+  {
+      echo "Monitoring the Program"
+  }
+  stage('Operation')
+  {
+      echo "Operating the Program"
+     }  
+  }
 
