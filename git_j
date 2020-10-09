@@ -1,0 +1,15 @@
+{
+   "Filename": "Purchase & Sale Details" ,
+      
+    "Date" : "08.10.2020",
+    
+    "Purchase": 150,
+    "Product" : "Tonar" ,
+    
+    "Sales" : 350 ,
+    "Product" :"Tonar",
+
+    "Customer Name" : "Swadha School"
+
+
+}
